@@ -15,15 +15,11 @@ To test, clone repo and run `npm install && npm start`.
 
 ## Instructions
 
-Use the 'open book'/Insert Table of Contents button on the toolbar to insert a table of contents automatically at the beginning of the document.
-
-## WIP Disclaimer
-
-The repository is meant to be a showcase and is not a final, finished product. Data is pre-filled to simulate real-world use cases and certain functionality is not completed.
+Add custom plugins in `EditorExample.js`.
 
 ## File Structure
 ### Primary Files
-- `src/EditorExample.js` - contains main React for example
+- `src/EditorExample.js` - contains main React for example. Insert custom plugins here.
 ### Other Files
 - `screenshot.png` - a screenshot of the plugin in action
 - `README.md` - self-explanatory
