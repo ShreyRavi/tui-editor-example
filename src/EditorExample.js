@@ -2,6 +2,7 @@ import React from 'react';
 import 'codemirror/lib/codemirror.css';
 import '@toast-ui/editor/dist/toastui-editor.css';
 import { Editor } from '@toast-ui/react-editor';
+import tableOfContentsPlugin from 'tui-table-of-contents';
 
 const EditorExample = () => {
   return (
@@ -14,7 +15,7 @@ const EditorExample = () => {
           hideModeSwitch={true}
           height="500px"
           initialEditType="wysiwyg"
-          plugins={[]}
+          plugins={[tableOfContentsPlugin]}
           usageStatistics={false}
         />
     </div>
