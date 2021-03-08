@@ -1,7 +1,7 @@
 # [tui-example-editor](https://shreyravi.github.io/tui-example-editor/)
 A table of contents custom plugin for Toast UI. Render a table of contents in real-time! 
 To test, clone repo and run `npm install && npm start`.
-<p align="center"><img src="https://github.com/ShreyRavi/tui-example-editor/raw/main/screenshot.png" height="93%" width="93%"></img>Screenshot of the demo of tui-example-editor Toast-UI Plugin.</p>
+<p align="center"><img src="https://github.com/ShreyRavi/tui-editor-example/raw/main/screenshot.png" height="93%" width="93%"></img>Screenshot of the demo of tui-example-editor Toast-UI Plugin.</p>
 
 ## How to Run
 
