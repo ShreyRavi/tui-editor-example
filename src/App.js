@@ -4,7 +4,7 @@ import EditorExample from "./EditorExample";
 const App = () => {
   return (
     <>
-      <EditorExample/>
+      <EditorExample />
     </>
   );
 };
